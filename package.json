@@ -2,7 +2,7 @@
   "name": "ajax",
   "version": "1.0.0",
   "description": "avvv",
-  "main": "script.js",
+  "main": "server.js",
   "scripts": {
     "test": "fff",
     "start": "node server.js"
