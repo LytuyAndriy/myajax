@@ -1,0 +1,19 @@
+body{
+	background-color: lightgreen;
+}
+
+td{
+	border: 4px red solid;
+	border-radius: 10px;
+	padding: 10px;
+
+}
+
+table{
+border-collapse: collapse;
+}
+.delete{
+background-color:red ;
+color: white;
+padding: 10px;
+}
